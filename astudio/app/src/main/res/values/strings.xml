@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="app_name_label">Welcome to Savor!</string>
+
+    <string name="search_label">Search for restaurants by:</string>
+    <string name="name_label">Restaurant name</string>
+    <string name="location_label">Maximum distance (km)</string>
+    <string name="rating_label">Minimum rating (0-5)</string>
+    <string name="search_bar"> Search</string>
+    <string name="search_button">Go</string>
+    <string name="search_error">Error: Please select a search parameter</string>
+    <string name="search_location_error">Error: Please input search radius as a number</string>
+    <string name="search_rating_error">Error: Please input minimum rating as a number</string>
+
+    <string name="Instructions">P.S. For location please input latitude, longitude and radius separated by a space</string>
+
+    <string name="write_review">Your review</string>
+    <string name="write_rating">Rating (0-5)</string>
+    <string name="post_button">Post</string>
+
+
+</resources>
