@@ -1,14 +1,13 @@
-# Restaurant Rating and Review App
-# Overview
-Welcome to the Restaurant Rating and Review App! This Android application allows users to search for restaurants, rate them, and leave reviews. It provides a seamless experience for exploring, evaluating, and sharing opinions about various dining establishments.
+# Savor
+This Android application allows users to search for restaurants, rate them, and give reviews. It provides a great experience for exploring, evaluating, and sharing opinions about difference in dining establishments.
 
 # Features
-Search for Restaurants: Use the search feature to find restaurants based on name, location, or rating.
+Search for Restaurants: Uses the search feature to find restaurants based on name, location, or rating.
 
-Rate and Review: Share your dining experiences by providing ratings and leaving detailed reviews for restaurants.
+Rate and Review: Share your dining experiences by rating and leaving reviews for restaurants.
 
 # Technologies Used
-This app is developed using Android Studio, the official integrated development environment (IDE) for Android app development.
+This app is developed using Intellij as a back-end starter and continued to work on it with Android Studio
 
 # Testing
-The application includes comprehensive testing using Espresso, the Android UI testing framework. The tests cover various functionalities, ensuring a robust and reliable user experience.
+The application includes testing using Espresso, the Android UI testing framework.
